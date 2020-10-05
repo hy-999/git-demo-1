@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hi gitaaa
-=======
-hi gitxxx
->>>>>>> dev
